@@ -1,1 +1,1 @@
-test line(includes * punctuation)
+test line(includes*punctuation)
